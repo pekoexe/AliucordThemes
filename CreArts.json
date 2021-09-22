@@ -4,7 +4,7 @@
         "author": "Sᵃki#0001",
         "version": "1.1.0",
         "license": "MIT",
-        "updater~": "https:\/\/raw.githubusercontent.com\/pekoexe\/AliucordThemes\/main\/CreArts.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/pekoexe\/AliucordThemes\/main\/CreArts.json"
     },
     "background": {},
     "fonts": {
