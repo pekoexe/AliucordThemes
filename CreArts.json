@@ -2,7 +2,7 @@
     "manifest": {
         "name": "CreArts Colors",
         "author": "Sᵃki#0001",
-        "version": "1.2.0",
+        "version": "1.3.0",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/pekoexe\/AliucordThemes\/main\/CreArts.json"
     },
@@ -14,7 +14,7 @@
         "accent": -3339950,
         "active_channel": -3339950,
         "background": -12435372,
-        "background_secondary": -13619646,
+        "background_secondary": -13027509,
         "input_background": -13619646,
         "mention_highlight": 449644882,
         "statusbar": -13619646
